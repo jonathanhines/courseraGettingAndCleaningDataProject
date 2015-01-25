@@ -6,7 +6,11 @@ if( require("plyr", character.only=TRUE) == FALSE ) {
 
 # If the source isn't downloaded yet go get it and download it
 if (!file.exists("UCI HAR Dataset")) {
-  download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", method="curl", destfile = "project.zip")
+  if( OS.type == "windows" ) {
+    download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", destfile = "project.zip", mode="wb")
+  } else {
+    download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", destfile = "project.zip", method="curl")
+  }
   write(date(), file="dateDownloaded.txt")
   unzip("project.zip")
   unlink("project.zip")

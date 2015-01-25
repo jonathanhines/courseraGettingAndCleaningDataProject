@@ -31,19 +31,20 @@ Each of the variables listed above were provided in the raw dataset sumarized us
 Additional summary quantities beyond standard mean and standard deviation were provided including the **Mean Frequency**.  Mean Frequency was not included in the output as it is based on a weighted average of frequencies as opposed to a stright average (and the assignment only asked for the mean and standard deviation of each variable).
 
 ##Units
-All values of the raw summary variables were normalized to remove units from their values.  They all range from a value of -1 to 1 and so each of the resultant means described below do not include units.
+All values of the raw summary variables were normalized to remove units from their values.  They all range from a value of -1 to 1 and so each of the resultant means described below is dimensionless.
 
 ##Variables Reported in this Data Set
 The dataset created by the attached code consists the mean of each of the mean and standard deviation of variables in the raw data set, for each user and activity.
 
 ###activity
 The activity performed by a subject sumarized in the remaining rows.  The possible values are:
-*WALKING
-*WALKING_UPSTAIRS
-*WALKING_DOWNSTAIRS
-*SITTING
-*STANDING
-*LAYING
+
+-  WALKING
+-  WALKING_UPSTAIRS
+-  WALKING_DOWNSTAIRS
+-  SITTING
+-  STANDING
+-  LAYING
 
 ###subject
 An anonymous identifier for the person who performed the activity in question which was recorded and summarized in the present row.  It is recorded as integer values ranging from 1 to 30.
@@ -85,56 +86,162 @@ Mean of the Y component of the standard deviation of gravity acceleration measur
 Mean of the Z component of the standard deviation of gravity acceleration measured in the time domain.
 
 ###tBodyAccJerkMEANXMEAN
+
+
 ###tBodyAccJerkMEANYMEAN
+
+
 ###tBodyAccJerkMEANZMEAN
+
+
 ###tBodyAccJerkSTDXMEAN
+
+
 ###tBodyAccJerkSTDYMEAN
+
+
 ###tBodyAccJerkSTDZMEAN
+
+
 ###tBodyGyroMEANXMEAN
+
+
 ###tBodyGyroMEANYMEAN
+
+
 ###tBodyGyroMEANZMEAN
+
+
 ###tBodyGyroSTDXMEAN
+
+
 ###tBodyGyroSTDYMEAN
+
+
 ###tBodyGyroSTDZMEAN
+
+
 ###tBodyGyroJerkMEANXMEAN
+
+
 ###tBodyGyroJerkMEANYMEAN
+
+
 ###tBodyGyroJerkMEANZMEAN
+
+
 ###tBodyGyroJerkSTDXMEAN
+
+
 ###tBodyGyroJerkSTDYMEAN
+
+
 ###tBodyGyroJerkSTDZMEAN
+
+
 ###tBodyAccMagMEANMEAN
+
+
 ###tBodyAccMagSTDMEAN
+
+
 ###tGravityAccMagMEANMEAN
+
+
 ###tGravityAccMagSTDMEAN
+
+
 ###tBodyAccJerkMagMEANMEAN
+
+
 ###tBodyAccJerkMagSTDMEAN
+
+
 ###tBodyGyroMagMEANMEAN
+
+
 ###tBodyGyroMagSTDMEAN
+
+
 ###tBodyGyroJerkMagMEANMEAN
+
+
 ###tBodyGyroJerkMagSTDMEAN
+
+
 ###fBodyAccMEANXMEAN
+
+
 ###fBodyAccMEANYMEAN
+
+
 ###fBodyAccMEANZMEAN
+
+
 ###fBodyAccSTDXMEAN
+
+
 ###fBodyAccSTDYMEAN
+
+
 ###fBodyAccSTDZMEAN
+
+
 ###fBodyAccJerkMEANXMEAN
+
+
 ###fBodyAccJerkMEANYMEAN
+
+
 ###fBodyAccJerkMEANZMEAN
+
+
 ###fBodyAccJerkSTDXMEAN
+
+
 ###fBodyAccJerkSTDYMEAN
+
+
 ###fBodyAccJerkSTDZMEAN
+
+
 ###fBodyGyroMEANXMEAN
+
+
 ###fBodyGyroMEANYMEAN
+
+
 ###fBodyGyroMEANZMEAN
+
+
 ###fBodyGyroSTDXMEAN
+
+
 ###fBodyGyroSTDYMEAN
+
+
 ###fBodyGyroSTDZMEAN
+
+
 ###fBodyAccMagMEANMEAN
+
+
 ###fBodyAccMagSTDMEAN
+
+
 ###fBodyBodyAccJerkMagMEANMEAN
+
+
 ###fBodyBodyAccJerkMagSTDMEAN
+
+
 ###fBodyBodyGyroMagMEANMEAN
+
+
 ###fBodyBodyGyroMagSTDMEAN
+
+
 ###fBodyBodyGyroJerkMagMEANMEAN
+
+
 ###fBodyBodyGyroJerkMagSTDMEAN
