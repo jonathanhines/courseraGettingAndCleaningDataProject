@@ -1,4 +1,4 @@
-# This solution uses plyr
+# This solution uses plyr, install it and load it if it isn't present
 if( require("plyr", character.only=TRUE) == FALSE ) {
     install.packages("plyr")
     library(plyr)
