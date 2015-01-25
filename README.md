@@ -13,6 +13,9 @@ The script will install and load **plyr** if it is not already on your system.
 *It will also download the data to the local directory if it is not found*
 so be prepared for it to take a while if you don't already have the data set.
 
+For detailed description of what the script does, consult the comments in the 
+run_analysis.R file.
+
 ##Results
 
 Final results of the script are two data frames.
