@@ -86,162 +86,168 @@ Mean of the Y component of the standard deviation of gravity acceleration measur
 Mean of the Z component of the standard deviation of gravity acceleration measured in the time domain.
 
 ###tBodyAccJerkMEANXMEAN
-
+Mean of the X component of the mean of jerk body acceleration measured in the time domain.
 
 ###tBodyAccJerkMEANYMEAN
-
+Mean of the Y component of the mean of jerk body acceleration measured in the time domain.
 
 ###tBodyAccJerkMEANZMEAN
-
+Mean of the Z component of the mean of jerk body acceleration measured in the time domain.
 
 ###tBodyAccJerkSTDXMEAN
-
+Mean of the X component of the standard deviation of jerk body acceleration measured in the time domain.
 
 ###tBodyAccJerkSTDYMEAN
-
+Mean of the Y component of the standard deviation of jerk body acceleration measured in the time domain.
 
 ###tBodyAccJerkSTDZMEAN
-
+Mean of the Z component of the standard deviation of jerk body acceleration measured in the time domain.
 
 ###tBodyGyroMEANXMEAN
-
+Mean of the X component of the mean of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroMEANYMEAN
-
+Mean of the Y component of the mean of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroMEANZMEAN
-
+Mean of the Z component of the mean of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroSTDXMEAN
-
+Mean of the X component of the standard deviation of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroSTDYMEAN
-
+Mean of the Y component of the standard deviation of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroSTDZMEAN
-
+Mean of the Z component of the standard deviation of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroJerkMEANXMEAN
-
+Mean of the X component of the mean of the computed jerk of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroJerkMEANYMEAN
-
+Mean of the Y component of the mean of the computed jerk of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroJerkMEANZMEAN
-
+Mean of the Z component of the mean of the computed jerk of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroJerkSTDXMEAN
-
+Mean of the X component of the standard deviaion of the computed jerk of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroJerkSTDYMEAN
-
+Mean of the Y component of the standard deviaion of the computed jerk of the gyroscope signal measured in the time domain.
 
 ###tBodyGyroJerkSTDZMEAN
-
+Mean of the Z component of the standard deviaion of the computed jerk of the gyroscope signal measured in the time domain.
 
 ###tBodyAccMagMEANMEAN
-
+Mean of the mean body acceleration magnitude measured in the time domain.
 
 ###tBodyAccMagSTDMEAN
-
+Mean of the standard deviation of the body acceleration magnitude measured in the time domain.
 
 ###tGravityAccMagMEANMEAN
-
+Mean of the mean gravitational acceleration magnitude measured in the time domain.
 
 ###tGravityAccMagSTDMEAN
-
+Mean of the standard deviation of the gravitational acceleration magnitude measured in the time domain.
 
 ###tBodyAccJerkMagMEANMEAN
-
+Mean of the mean body jerk acceleration magnitude measured in the time domain.
 
 ###tBodyAccJerkMagSTDMEAN
-
+Mean of the standard deviation of body jerk acceleration magnitude measured in the time domain.
 
 ###tBodyGyroMagMEANMEAN
-
+Mean of the mean gyroscope signal magnitude measured in the time domain.
 
 ###tBodyGyroMagSTDMEAN
-
+Mean of the standard deviation of gyroscope signal magnitude measured in the time domain.
 
 ###tBodyGyroJerkMagMEANMEAN
-
+Mean of the mean magnitude of the computed jerk of the gyroscope signal in the time domain.
 
 ###tBodyGyroJerkMagSTDMEAN
-
+Mean of the standard deviation of the magnitude of the computed jerk of the gyroscope signal in the time domain.
 
 ###fBodyAccMEANXMEAN
-
+Mean of the X component of the mean body acceleration transformed to the frequency domain.
 
 ###fBodyAccMEANYMEAN
-
+Mean of the Y component of the mean body acceleration transformed to the frequency domain.
 
 ###fBodyAccMEANZMEAN
-
+Mean of the Z component of the mean body acceleration transformed to the frequency domain.
 
 ###fBodyAccSTDXMEAN
-
+Mean of the X component of the standard deviation of body acceleration transformed to the frequency domain.
 
 ###fBodyAccSTDYMEAN
-
+Mean of the Y component of the standard deviation of body acceleration transformed to the frequency domain.
 
 ###fBodyAccSTDZMEAN
-
+Mean of the Z component of the standard deviation of body acceleration transformed to the frequency domain.
 
 ###fBodyAccJerkMEANXMEAN
-
+Mean of the X component of the mean of jerk body acceleration transformed to the frequency domain
 
 ###fBodyAccJerkMEANYMEAN
-
+Mean of the Y component of the mean of jerk body acceleration transformed to the frequency domain
 
 ###fBodyAccJerkMEANZMEAN
-
+Mean of the Z component of the mean of jerk body acceleration transformed to the frequency domain
 
 ###fBodyAccJerkSTDXMEAN
-
+Mean of the X component of the standard deviation of jerk body acceleration transformed to the frequency domain
 
 ###fBodyAccJerkSTDYMEAN
-
+Mean of the Y component of the standard deviation of jerk body acceleration transformed to the frequency domain
 
 ###fBodyAccJerkSTDZMEAN
-
+Mean of the Z component of the standard deviation of jerk body acceleration transformed to the frequency domain
 
 ###fBodyGyroMEANXMEAN
-
+Mean of the X component of the mean of the gyroscope signal transformed to the frequency domain
 
 ###fBodyGyroMEANYMEAN
-
+Mean of the Y component of the mean of the gyroscope signal transformed to the frequency domain
 
 ###fBodyGyroMEANZMEAN
-
+Mean of the Z component of the mean of the gyroscope signal transformed to the frequency domain
 
 ###fBodyGyroSTDXMEAN
-
+Mean of the X component of the standard deviation of the gyroscope signal transformed to the frequency domain.
 
 ###fBodyGyroSTDYMEAN
-
+Mean of the Y component of the standard deviation of the gyroscope signal transformed to the frequency domain.
 
 ###fBodyGyroSTDZMEAN
-
+Mean of the Z component of the standard deviation of the gyroscope signal transformed to the frequency domain.
 
 ###fBodyAccMagMEANMEAN
-
+Mean of the mean body acceleration magnitude transformed to the frequency domain.
 
 ###fBodyAccMagSTDMEAN
-
+Mean of the standard deviation of the body acceleration magnitude transformed to the frequency domain.
 
 ###fBodyBodyAccJerkMagMEANMEAN
-
+Mean of the mean body jerk acceleration magnitude transformed to the frequency domain.
 
 ###fBodyBodyAccJerkMagSTDMEAN
-
+Mean of the standard deviation of body jerk acceleration magnitude transformed to the frequency domain.
 
 ###fBodyBodyGyroMagMEANMEAN
-
+Mean of the mean gyroscope signal magnitude transformed to the frequency domain.
 
 ###fBodyBodyGyroMagSTDMEAN
-
+Mean of the standard deviation of gyroscope signal magnitude transformed to the frequency domain.
 
 ###fBodyBodyGyroJerkMagMEANMEAN
-
+Mean of the mean magnitude of the computed jerk of the gyroscope signal transformed to the frequency domain.
 
 ###fBodyBodyGyroJerkMagSTDMEAN
+Mean of the standard deviation of the magnitude of the computed jerk of the gyroscope signal transformed to the frequency domain.
+
+##References
+Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD. Assignment on Coursera.org. https://class.coursera.org/getdata-010/human_grading/view/courses/973497/assessments/3/submissions
+
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Data Set. Smartlab - Non Linear Complex Systems Laboratory DITEN - Universit√  degli Studi di Genova, Genoa I-16145, Italy. Hosted by the UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones

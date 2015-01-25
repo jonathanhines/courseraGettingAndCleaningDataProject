@@ -12,9 +12,6 @@ R console issue:
 The script will install and load **plyr** if it is not already on your system.
 *It will also download the data to the local directory if it is not found*
 so be prepared for it to take a while if you don't already have the data set.
-The download has been tested on a Macintosh computer, you may need to tweak the 
-paramenters for the download.file statement if you are on a pc (probably add 
-", mode='wb'" to the parameter list and remove the ", method='curl'").
 
 ##Results
 
